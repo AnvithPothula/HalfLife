@@ -57,3 +57,5 @@ As you saw in the previous image, I decided to use the Image Converter and add m
 Then, I went and used the code on the Github page and installed the libraries it wanted me to:
 
 ![Screenshot 2026-10-09 at 10.45.41 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7ME5CuFiz5X4u2KxuO278yO001rQ8Db2/384aa24cbe5d70803bafaf9b5723a732cb7ac863c72110294f2a6b08b130fc9e.png)
+
+This project took me a while since this was my first time doing something like this, so I got stuck a lot.
